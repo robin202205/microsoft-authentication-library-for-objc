@@ -14,7 +14,7 @@ let package = Package(
   ],
   targets: [
     .target(
-        name: "Kingfisher",
+        name: "MSAL",
         path: "MSAL/src"
     )
   ]
